@@ -1,0 +1,26 @@
+data,vendedor,regiao,produto,quantidade,preco_unitario,custo_unitario
+2024-01-03,João,Sudeste,Notebook Pro,2,3500.00,2100.00
+2024-01-03,Ana,Sul,SSD 1TB,5,320.00,180.00
+2024-01-04,Carlos,Nordeste,Monitor 4K,1,1200.00,700.00
+2024-01-04,Maria,Sudeste,Headset Pro,3,450.00,220.00
+2024-01-05,João,Sudeste,Teclado RGB,4,280.00,140.00
+2024-01-05,Ana,Sul,Notebook Pro,1,3500.00,2100.00
+2024-01-06,Carlos,Norte,Mouse Gamer,6,180.00,90.00
+2024-01-06,Maria,Sudeste,SSD 1TB,3,320.00,180.00
+2024-01-07,João,Centro-Oeste,Monitor 4K,2,1200.00,700.00
+2024-01-07,Ana,Sul,Headset Pro,2,450.00,220.00
+2024-01-08,,Sudeste,Teclado RGB,3,280.00,140.00
+2024-01-08,Carlos,Nordeste,Notebook Pro,1,3500.00,2100.00
+2024-01-09,Maria,Sudeste,Mouse Gamer,5,180.00,90.00
+2024-01-09,João,Sudeste,SSD 1TB,4,320.00,180.00
+2024-01-10,Ana,,Monitor 4K,2,1200.00,700.00
+2024-01-10,Carlos,Norte,Headset Pro,1,450.00,220.00
+2024-01-11,Maria,Sudeste,Teclado RGB,6,280.00,140.00
+2024-01-11,João,Sudeste,Notebook Pro,3,3500.00,2100.00
+2024-01-12,Ana,Sul,Mouse Gamer,4,180.00,90.00
+2024-01-12,Carlos,Nordeste,SSD 1TB,2,320.00,180.00
+2024-01-13,Maria,Sudeste,Monitor 4K,1,1200.00,700.00
+2024-01-13,João,Centro-Oeste,Headset Pro,3,450.00,220.00
+2024-01-14,Ana,Sul,Teclado RGB,5,280.00,140.00
+2024-01-14,Carlos,Nordeste,Notebook Pro,2,3500.00,2100.00
+2024-01-15,Maria,Sudeste,Mouse Gamer,3,180.00,90.00

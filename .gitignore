@@ -1,0 +1,7 @@
+logs/
+__pycache__/
+*.pyc
+.env
+dados/vendas_transformadas.csv
+saida/vendas.db
+saida/relatorio.txt
