@@ -121,7 +121,7 @@ O operador `>>` define dependencia sequencial. O Airflow garante que cada tarefa
 
 ## `Demonstração`
 
-**Airflow UI — DAG `pipeline_vendas`** — 4 runs com sucesso total, 4 tarefas encadeadas (`extrair → transformar → carregar → gerar_relatorio`) executadas em ~6 segundos cada.
+**Airflow UI, DAG `pipeline_vendas`**: 4 runs com sucesso total, 4 tarefas encadeadas (`extrair → transformar → carregar → gerar_relatorio`) executadas em ~6 segundos cada.
 
 ![Airflow DAG pipeline_vendas](docs/screenshots/airflow-dag.png)
 
@@ -136,7 +136,7 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 ## `Autor`
 
 **Arthur Baptista dos Santos**
-RM 565346 — Inteligência Artificial · FIAP 2025–2026
+RM 565346 · Inteligência Artificial · FIAP 2025-2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Baptista-0077B5?logo=linkedin)](https://linkedin.com/in/arthur-baptista-dos-santos)
 [![GitHub](https://img.shields.io/badge/GitHub-Arthur--Baptista--dos--Santos-181717?logo=github)](https://github.com/Arthur-Baptista-dos-Santos)
