@@ -119,6 +119,14 @@ O operador `>>` define dependencia sequencial. O Airflow garante que cada tarefa
 
 ---
 
+## `Demonstração`
+
+**Airflow UI — DAG `pipeline_vendas`** — 4 runs com sucesso total, 4 tarefas encadeadas (`extrair → transformar → carregar → gerar_relatorio`) executadas em ~6 segundos cada.
+
+![Airflow DAG pipeline_vendas](docs/screenshots/airflow-dag.png)
+
+---
+
 ## `Licença`
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
